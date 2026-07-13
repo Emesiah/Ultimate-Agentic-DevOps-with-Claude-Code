@@ -1,0 +1,9 @@
+# Terraform
+terraform/.terraform/
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Keep the dependency lock file
+!.terraform.lock.hcl
