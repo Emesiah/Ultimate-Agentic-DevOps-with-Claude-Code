@@ -1,0 +1,2 @@
+- [Portfolio infra scope](project_portfolio_infra.md) — terraform/ has only 5 files, S3+CloudFront, no IAM/OIDC/CI resources exist in-repo
+- [Recurring gaps pattern](pattern_recurring_gaps_portfolio_terraform.md) — headers policy, CloudFront logging, S3 versioning/encryption/logging, and domain_name/cert mismatch are the recurring findings
